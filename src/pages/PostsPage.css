@@ -1,0 +1,8 @@
+.PostsPage {
+
+    width: 1366px;
+    padding: 0 0 170px;
+    background-color: #343434;
+    display: flex;
+    flex-direction: column;
+}

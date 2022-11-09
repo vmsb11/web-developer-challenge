@@ -1,0 +1,24 @@
+.UploadButton {
+    width: 88px;
+    height: 88px;
+    margin: 0 8px 16px 190px;
+    object-fit: contain;
+    border-radius: 36px;
+    border: solid 1px #4b4b4b;
+    background-color: rgba(75, 75, 75, 0);
+}
+
+.UploadButton .imgImageUpload {
+
+    width: 24px;
+    height: 24px;
+    object-fit: contain;
+}
+
+.UploadButton .imgSelecedImage {
+
+    width: 88px;
+    height: 88px;
+    object-fit: contain;
+    border-radius: 36px;
+}
